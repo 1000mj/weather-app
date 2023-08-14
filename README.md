@@ -1,3 +1,5 @@
+# <a href="https://1000mj.github.io/weather-app/" target="_blank">weather-app 사이트</a>
+
 ## 1.프로젝트 목표
 - Weather API를 활용하여 날씨앱을 만들어보자
 
