@@ -29,7 +29,7 @@ function App() {
             <h1 className="title">Weather</h1>
             <div className="appContentWrap">
                 <input
-                    placeholder="도시를 입력하세요."
+                    placeholder="도시를 입력하세요.(영문)"
                     value={location}
                     onChange={(e) => setLocation(e.target.value)}
                     type="text"
